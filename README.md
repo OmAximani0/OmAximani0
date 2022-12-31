@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Om, a full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Om, a full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Helm Dashboard](https://github.com/komodorio/helm-dashboard)  
