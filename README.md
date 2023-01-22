@@ -1,4 +1,4 @@
-### <div align="center">I'm Om, a full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Om, A Full-Stack Developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Helm Dashboard](https://github.com/komodorio/helm-dashboard)  
