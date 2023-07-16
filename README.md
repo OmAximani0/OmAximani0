@@ -1,7 +1,7 @@
 ### <div align="center">I'm Om, A Full-Stack Developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Helm Dashboard](https://github.com/komodorio/helm-dashboard)  
+<!-- - 🔭 I’m currently working on [Helm Dashboard](https://github.com/komodorio/helm-dashboard)  -->
   
 
 - 🌱 I’m currently learning Golang and Kubernetes  
