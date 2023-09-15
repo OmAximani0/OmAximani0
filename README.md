@@ -23,6 +23,10 @@
 
 <br/>  
 
+<!-- ## Test Stat
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/OmAximani0)](https://git.io/awesome-stats-card)
+-->
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
