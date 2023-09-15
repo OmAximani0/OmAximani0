@@ -12,21 +12,14 @@
 
 - ⚡ Fun fact: I use tabs over spaces 🙂  
 
-- 🌐 My Website - https://omaximani.vercel.app/
+- 🌐 My Website - [omaximani.vercel.app](https://omaximani.vercel.app/)
   
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OmAximani0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<!-- ## Test Stat
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/OmAximani0)](https://git.io/awesome-stats-card)
--->
-<br/>
+## Github Stats
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/OmAximani0)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
